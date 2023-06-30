@@ -1,1 +1,1 @@
-# Web-App-Volatility-Forecasting
+Ce repository a pour but de construire une Application Web permettant de délivrer les données générées par les modèles d'apprentissage qu'on aura construit dans le répository [Online Volatility Forcasting](https://github.com/samuelnyobe/Online-Volatility-Forcasting)
